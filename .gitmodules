@@ -4,3 +4,6 @@
 [submodule "pelican-themes/pelican-blue"]
 	path = pelican-themes/pelican-blue
 	url = https://github.com/Parbhat/pelican-blue.git
+[submodule "pelican-themes/pelican-simplegrey"]
+	path = pelican-themes/pelican-simplegrey
+	url = https://github.com/fle/pelican-simplegrey.git
