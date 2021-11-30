@@ -1,6 +1,6 @@
 AUTHOR = 'Morgan Humes'
 SITENAME = "cereal's blog"
-SITEURL = ''
+SITEURL = 'https://blog.lanaddict.com'
 
 PATH = 'content'
 
