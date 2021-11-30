@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>cereal's blog - pelican</title><link href="https://blog.lanaddict.com/" rel="alternate"></link><link href="https://blog.lanaddict.com/feeds/pelican.atom.xml" rel="self"></link><id>https://blog.lanaddict.com/</id><updated>2021-11-30T00:00:00-08:00</updated><entry><title>Blog with Pelican</title><link href="https://blog.lanaddict.com/blog-with-pelican.html" rel="alternate"></link><published>2021-11-30T00:00:00-08:00</published><updated>2021-11-30T00:00:00-08:00</updated><author><name>Morgan Humes</name></author><id>tag:blog.lanaddict.com,2021-11-30:/blog-with-pelican.html</id><content type="html">&lt;p&gt;So let's see how this works. Will this trigger a build?&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Hello world&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+&lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="vm"&gt;__name__&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;__main__&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="n"&gt;main&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="pelican"></category></entry></feed>
